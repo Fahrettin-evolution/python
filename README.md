@@ -1,2 +1,3 @@
 # python
 simple number change
+burada eğitimler karışık var ihtiyacanıza göre bakabilirsiniz...
